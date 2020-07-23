@@ -1,5 +1,4 @@
-# bazean_assess
-Bazean_assessment
+
 Note:
 
 Full plots for GOR relationship with time is available in code with explanations on markdown.
